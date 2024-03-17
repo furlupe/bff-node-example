@@ -5,3 +5,4 @@
 - express
 - inversify
 - axios
+- cross-env
